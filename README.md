@@ -10,7 +10,7 @@ This project leverages the power of Flan-T5, a Transformer-based model from Goog
 ### **Framework:**
 - Built with Hugging Face’s [transformers library](https://huggingface.co/docs/transformers/index) for seamless model integration and inference. 
 ### **Dataset**:
-- [DialogSum] (https://huggingface.co/datasets/knkarthick/dialogsum) (English dialogues)
+- [DialogSum](https://huggingface.co/datasets/knkarthick/dialogsum) (English dialogues)
 ### **Training**: 
 - Parameter-Efficient Fine-tuning (PEFT) with LoRA configuration
 ### **WandB Integration:**
