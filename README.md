@@ -8,7 +8,7 @@ This project leverages the power of Flan-T5, a Transformer-based model from Goog
 ## Technology Stack
 
 ### **Model:**
-- Utilizes Flan-T5-Large (780M parameters), a powerful variant of the Flan-T5 family, to deliver high-quality abstractive summarization. For more details on Flan-T5 variants, check out the [official documentation](https://huggingface.co/docs/transformers/model_doc/flan-t5).
+- Utilizes [Flan-T5-Large](https://huggingface.co/google/flan-t5-large) (783M parameters), a powerful variant of the Flan-T5 family, to deliver high-quality abstractive summarization. For more details on Flan-T5 variants, check out the [official documentation](https://huggingface.co/docs/transformers/model_doc/flan-t5).
 ### **Framework:**
 - Built with Hugging Face’s [transformers library](https://huggingface.co/docs/transformers/index) for seamless model integration and inference. 
 ### **Dataset**:
